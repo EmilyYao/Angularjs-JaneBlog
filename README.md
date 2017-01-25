@@ -1,1 +1,3 @@
 # Angularjs-JaneBlog
+
+# This is a simple blog used by angularjs .......
